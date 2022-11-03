@@ -52,7 +52,7 @@ conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply
       thumbnail: thumb,
       sourceUrl: sig  }}})
             setTimeout(() => {
-    conn.sendFile(m.chat, assalamualaikum, Assalamu'alaikum,'', '', m, true)
+    conn.sendFile(m.chat, assalamualaikum, '', '', m, true)
     }, 1000)
 }
 handler.customPrefix = /^(assalamualaikum)$/i
