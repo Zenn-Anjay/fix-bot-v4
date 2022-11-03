@@ -27,7 +27,7 @@ ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
 ${htjava} *🎨 Umur* : 16
 ${htjava} *🧮 Kelas* : 1 SMK
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
+${htjava} *🧩 Hobby* : PROGRAMER 👨‍💻
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Indo, Mojokerto, Jawa Timur
 ${htjava} *❤️ Waifu* : Bukan Wibu bang
