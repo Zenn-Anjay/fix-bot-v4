@@ -29,7 +29,7 @@ ${htjava} *🎨 Umur* : 16
 ${htjava} *🧮 Kelas* : 1 SMK
 ${htjava} *🧩 Hobby* : PROGRAMER 👨‍💻
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Mojokerto, Jawa Timur
+${htjava} *🗺️ Tinggal* : Mojokerto, Jawa Timur, Indonesia
 ${htjava} *❤️ Waifu* : Bukan Wibu bang
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
