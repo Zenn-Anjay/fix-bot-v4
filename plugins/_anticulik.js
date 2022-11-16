@@ -19,34 +19,34 @@ export async function all(m) {
         this.sendButton(m.chat, `${wm}
 
         ╭━━━━「 SEWA 」
-        ┊⫹⫺ Hemat: 5k/grup (1 minggu)
-        ┊⫹⫺ Normal: 15k/grup (1 bulan)
-        ┊⫹⫺ Standar: 30k/grup (2 bulan)
-        ┊⫹⫺ Pro: 35k/grup (4 bulan)                                                      
-        ┊⫹⫺ Vip: = 65k/grup (12 bulan)
+        ┊⫹⫺ Hemat: 2k/grup (1 minggu)
+        ┊⫹⫺ Normal: 3k/grup (1 bulan)
+        ┊⫹⫺ Standar: 5k/grup (2 bulan)
+        ┊⫹⫺ Pro: 7k/grup (4 bulan)                                                      
+        ┊⫹⫺ Vip: = 10k/grup (permanen)
         ╰═┅═━––––––๑
         
         ╭━━━━「 PREMIUM 」
-        ┊⫹⫺ Hemat: 5k (1 minggu)
-        ┊⫹⫺ Normal: 20k (1 bulan)
-        ┊⫹⫺ Pro: 40k (4 bulan)
-        ┊⫹⫺ Vip: 50k (8 bulan)                                               
-        ┊⫹⫺ Permanent: = 70k (Unlimited)
+        ┊⫹⫺ Hemat: 1k (1 minggu)
+        ┊⫹⫺ Normal: 3k (1 bulan)
+        ┊⫹⫺ Pro: 5k (4 bulan)
+        ┊⫹⫺ Vip: 6k (8 bulan)                                               
+        ┊⫹⫺ Permanent: = 7k (Unlimited)
         ╰═┅═━––––––๑
         
         ⫹⫺ PAYMENT:
-        • Pulsa Telkomsel: [082127487538]
+        • Pulsa Indosat: [082127487538]
         • Dana: [082127487538]
         • Gopay: [082127487538]
         • Ovo: [082127487538]
         • Link Aja: [082127487538]
         
         Nomor Owner :
-        wa.me/6282127487538
+        wa.me/6285839936163
         
         ▌│█║▌║▌║║▌║▌║█│▌
         
-        #BY WH MODS DEV
+        #BY Zenn-Bot
         `.trim(), wm, 'Pemilik Bot', '.owner', m)
 await this.reply(nomorown + '@s.whatsapp.net', `Ada Yang Mau Nyulik nih :v \n\ndari: @${m.sender.split("@")[0]} \n\npesan: ${m.text}`, m, { mentions: [m.sender] })
     }
